@@ -165,6 +165,13 @@ Dengan langkah-langkah ini, kami dapat mengidentifikasi tren pembatalan transaks
 
 ## Hasil Analisis Data
 
-![Average Revenue per Year](URL_GAMBAR)
+### Rata-rata Pendapatan per tahun
+![Average Revenue per Year](https://github.com/indhksmaa/Online_Retail_Dataset/blob/main/grafik_average_revenue.png)
+
+Dilihat dari grafik diatas menunjukan bahwa Rata-rata pendapatan tahunan tidak bervariasi secara signifikan dari tahun ke tahun dengan fluktuasi yang relatif kecil, sehingga mengindikasikan bahwa online retail ini stabilitas dalam bisnis. <br>
+Perusahaan perlu mempertimbangkan untuk Analisis pelanggan dengan melakukan analisis lebih lanjut mengenai profil pelanggan, preferensi dan umpan balik dapat membantu meningkatkan kepuasan pelanggan dan mengidentifikasi peluang untuk menghasilkan pendapatan tambahan
+
+### Perbandingan Antara Transaksi yang selesai vs Transaksi yang di batalkan
+![Comparison_Between_Finished_Transaction_and_Canceled_Transactions]()
 
 
