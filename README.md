@@ -177,6 +177,8 @@ Perusahaan perlu mempertimbangkan untuk Analisis pelanggan dengan melakukan anal
 Data menunjukkan bahwa transaksi yang selesai meningkat secara signifikan dari tahun 2009 ke tahun 2010 dari 30754 ke 403067, namun mengalami sedikit penurunan di tahun 2011 menjadi 371728, hal ini menunjukkan mengalami pertumbuhan awal yang signifikan diikuti dengan penurunan sedikit. Dan untuk transaksi yang dibatalkan juga mengalami peningkatan seiring waktu akan tetapi, tidak sebanyak transaksi yang selesai. Hal ini menunjukkan bahwa sebagian besar transaksi telah diselesaikan. tetapi ada beberapa yang dibatalkan. Perusahaan perlu melakukan analisis tren lebih lanjut untuk mengetahui apakah ada faktor musiman atau faktor eksternal tertentu yang mempengaruhi jumlah transaksi yang selesai dan dibatalkan.
 
 ### Persentase Transaksi yang dibatalkan
-![Cancellation Rate]()
+![Cancellation Rate](https://github.com/indhksmaa/Online_Retail_Dataset/blob/main/grafik_Cancellation%20Rate%20per%20Year.png)
+
+Dari data di atas menunjukkan bahwa persentase transaksi yang dibatalkan mengalami penurunan dari tahun ke tahun yang mengindikasikan kearah positif. Hal ini menunjukkan bahwa perusahaan mungkin telah mengambil langkah-langkah untuk mengurangi pembatalan transaksi. Perusahaan perlu menganalisis alasan-alasan pembatalan transaksi untuk mengidentifikasi bagian mana yang perlu diperbaiki atau ditingkatkan
 
 
