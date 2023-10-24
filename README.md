@@ -1,6 +1,6 @@
 # Analisis Performa Penjualan Online Retail
 
-Analisi ini bertujuan untuk menganalisis dan mengukur performa penjualan dalam bisnis ritel online. Data yang digunakan mencakup semua transaksi yang terjadi pada perusahaan ritel online selama periode tahun 2009-2011. Data ini terdiri dari 1067371 baris dan 8 kolom dengan deskripsi berikut:
+Analisis ini bertujuan untuk menganalisis dan mengukur performa penjualan dalam bisnis ritel online. Data yang digunakan mencakup semua transaksi yang terjadi pada perusahaan ritel online selama periode tahun 2009-2011. Data ini terdiri dari 1067371 baris dan 8 kolom dengan deskripsi berikut:
 
 - **Invoice**: Nomor invoice 6 digit yang ditetapkan secara unik untuk setiap transaksi. Jika kode ini dimulai dengan huruf 'C', itu menunjukkan pembatalan.
 - **StockCode**: Kode produk (barang) yang terdiri dari angka 5 digit. Setiap produk memiliki kode yang unik.
