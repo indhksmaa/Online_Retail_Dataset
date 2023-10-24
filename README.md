@@ -172,6 +172,11 @@ Dilihat dari grafik diatas menunjukan bahwa Rata-rata pendapatan tahunan tidak b
 Perusahaan perlu mempertimbangkan untuk Analisis pelanggan dengan melakukan analisis lebih lanjut mengenai profil pelanggan, preferensi dan umpan balik dapat membantu meningkatkan kepuasan pelanggan dan mengidentifikasi peluang untuk menghasilkan pendapatan tambahan
 
 ### Perbandingan Antara Transaksi yang selesai vs Transaksi yang di batalkan
-![Comparison_Between_Finished_Transaction_and_Canceled_Transactions]()
+![Comparison_Between_Finished_Transaction_and_Canceled_Transactions](https://github.com/indhksmaa/Online_Retail_Dataset/blob/main/grafik_Comparison%20of%20Finished%20and%20Canceled%20Transactions%20per%20Year.png)
+
+Data menunjukkan bahwa transaksi yang selesai meningkat secara signifikan dari tahun 2009 ke tahun 2010 dari 30754 ke 403067, namun mengalami sedikit penurunan di tahun 2011 menjadi 371728, hal ini menunjukkan mengalami pertumbuhan awal yang signifikan diikuti dengan penurunan sedikit. Dan untuk transaksi yang dibatalkan juga mengalami peningkatan seiring waktu akan tetapi, tidak sebanyak transaksi yang selesai. Hal ini menunjukkan bahwa sebagian besar transaksi telah diselesaikan. tetapi ada beberapa yang dibatalkan. Perusahaan perlu melakukan analisis tren lebih lanjut untuk mengetahui apakah ada faktor musiman atau faktor eksternal tertentu yang mempengaruhi jumlah transaksi yang selesai dan dibatalkan.
+
+### Persentase Transaksi yang dibatalkan
+![Cancellation Rate]()
 
 
