@@ -162,3 +162,9 @@ plt.title('Cancellation Rate per Year')
 plt.show()
 ```
 Dengan langkah-langkah ini, kami dapat mengidentifikasi tren pembatalan transaksi dan mengukur tingkat pembatalan dalam bisnis ritel online kami.
+
+## Hasil Analisis Data
+
+![Average Revenue per Year](URL_GAMBAR)
+
+
